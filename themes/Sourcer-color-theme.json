@@ -3,7 +3,7 @@
 	"colors": {
 		"activityBar.background": "#222222",
 		"activityBarBadge.background": "#222222",
-    	"activityBarBadge.foreground": "#C2C2B0",
+		"activityBarBadge.foreground": "#C2C2B0",
 		"button.background": "#6688AA",
 		"button.hoverbackground": "#90B0D1",
 		"editor.background": "#222222",
@@ -28,7 +28,7 @@
 		"sideBarSectionHeader.foreground": "#C2C2B0",
 		"scrollbarSlider.background": "#2D2D2D",
 		"statusBar.background": "#181818",
-    	"statusBar.foreground": "#c1cdc1",
+		"statusBar.foreground": "#c1cdc1",
 		"tab.activeForeground": "#C2C2B0",
 		"tab.inactiveForeground": "#C2C2B0",
 		"terminal.background": "#222222",
@@ -51,7 +51,7 @@
 		"terminal.ansiYellow": "#CC8800",
 		"terminalCursor.foreground": "#6A7C2A",
 		"titleBar.activeForeground": "#D3D3D3",
-    	"titleBar.inactiveForeground": "#C1CDC1"
+		"titleBar.inactiveForeground": "#C1CDC1"
 	},
 	"tokenColors": [
 		{
@@ -226,6 +226,50 @@
 				"background": "#AE81FF",
 				"foreground": "#F8F8F0"
 			}
-		}
+		},
+		{
+			"name": "[VSCODE-CUSTOM] Markdown headings",
+			"scope": "entity.name.section.markdown",
+			"settings": {
+				"foreground": "#AA4450"
+			}
+		},
+		{
+			"name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
+			"scope": "punctuation.definition.heading.markdown",
+			"settings": {
+				"foreground": "#AA4450"
+			}
+		},
+		{
+			"name": "[VSCODE-CUSTOM] Markdown List Punctuation Definition",
+			"scope": "beginning.punctuation.definition.list.markdown",
+			"settings": {
+				"foreground": "#AA4450"
+			}
+    	},
+		{
+			"name": "[VSCODE-CUSTOM] Markdown Inline Raw String",
+			"scope": "markup.inline.raw.string.markdown",
+			"settings": {
+				"foreground": "#CC8800"
+			}
+		},
+		{
+			"name": "markup.italic.markdown",
+			"scope": "markup.italic.markdown",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#90B0D1"
+			}
+		},
+		{
+			"name": "markup.bold.markdown",
+			"scope": "markup.bold.markdown",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#719611"
+			}
+	 	}
 	]
 }
