@@ -8,4 +8,4 @@ Search for the `Sourcerer` theme in the marketplace
 
 ## Screenshot
 
-_TODO_
+![ScreenShot](https://raw.githubusercontent.com/bpruitt-goddard/vscode-sourcerer/master/screenshot1.png)
