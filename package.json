@@ -1,0 +1,36 @@
+{
+    "name": "sourcer",
+    "displayName": "Sourcer",
+    "description": "Sourcerer Theme based on the Vim and Hyper themes",
+    "version": "0.0.1",
+    "publisher": "bpruitt-goddard",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sourcer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sourcer-color-theme.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/bpruitt-goddard/vscode-sourcerer/issues"
+    },
+    "homepage": "https://github.com/bpruitt-goddard/vscode-sourcerer/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bpruitt-goddard/vscode-sourcerer.git"
+    },
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Sourcerer"
+    ]
+}
