@@ -1,6 +1,6 @@
 # Sourcerer Theme
 
-Sourcerer theme for Visual Studio Code, based on [seagoj/hyperterm-sourcerer/](https://github.com/seagoj/hyperterm-sourcerer/) and [Xero/Sourcerer](https://github.com/xero/sourcerer)
+Sourcerer theme for Visual Studio Code, based on [seagoj/hyperterm-sourcerer](https://github.com/seagoj/hyperterm-sourcerer/) and [Xero/Sourcerer](https://github.com/xero/sourcerer)
 
 ## Install
 
