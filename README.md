@@ -10,5 +10,6 @@ Sourcerer theme for Visual Studio Code, based on [seagoj/hyperterm-sourcerer](ht
 Search for the `Sourcerer` theme in the marketplace
 
 ## Screenshot
+Screenshot of Ruby and JavaScript
 
 ![ScreenShot](https://raw.githubusercontent.com/bpruitt-goddard/vscode-sourcerer/master/screenshot1.png)
