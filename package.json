@@ -2,7 +2,7 @@
     "name": "sourcerer",
     "displayName": "Sourcerer",
     "description": "Sourcerer Theme based on the Vim and Hyper themes",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "bpruitt-goddard",
     "license": "MIT",
     "engines": {
@@ -14,9 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Sourcer",
+                "label": "Sourcerer",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Sourcer-color-theme.json"
+                "path": "./themes/Sourcerer-color-theme.json"
             }
         ]
     },
