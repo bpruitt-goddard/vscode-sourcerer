@@ -1,8 +1,8 @@
 {
-    "name": "sourcer",
-    "displayName": "Sourcer",
+    "name": "sourcerer",
+    "displayName": "Sourcerer",
     "description": "Sourcerer Theme based on the Vim and Hyper themes",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "publisher": "bpruitt-goddard",
     "license": "MIT",
     "engines": {
