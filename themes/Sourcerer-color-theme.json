@@ -157,7 +157,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FD971F"
+				"foreground": "#6688AA"
 			}
 		},
 		{
@@ -301,6 +301,17 @@
 			"scope": "markup.inserted",
 			"settings": {
 				"foreground": "#719611"
+			}
+		},
+		{
+			"name": "String interpolation",
+			"scope": [
+				"punctuation.definition.template-expression.begin",
+				"punctuation.definition.template-expression.end",
+				"punctuation.section.embedded"
+			],
+			"settings": {
+				"foreground": "#6688AA"
 			}
 		}
 	]
