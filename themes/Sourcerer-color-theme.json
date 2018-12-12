@@ -17,6 +17,7 @@
 		"editorSuggestWidget.border": "#181818",
 		"editorSuggestWidget.selectedBackground": "#181818",
 		"editorWhitespace.foreground": "#3B3A32",
+		"peekViewEditor.matchHighlightBackground": "#464646",
 		"input.background": "#222222",
 		"list.activeSelectionBackground": "#222222",
 		"list.activeSelectionForeground": "#C2C2B0",
